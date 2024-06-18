@@ -1,0 +1,1 @@
+To run the code successfully, you must install all required dependencies and keep them updated, preferably to the latest version compatible with your CUDA installation. Also, install the file of requirement.txt 
